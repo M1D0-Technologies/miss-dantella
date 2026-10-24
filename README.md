@@ -1,53 +1,21 @@
-<div align="center">
-  <img src="./assets/banner.svg" alt="Miss Dantella — A house of lace, lingerie and elastic" width="100%" />
-</div>
+<a href="https://www.missdantella.com"><picture><source media="(max-width: 640px)" srcset="./assets/banner-mobile.svg" /><img src="./assets/banner.svg" alt="Miss Dantella. Women's Lingerie, Underwear &amp; Nightwear | Wholesale, Retail &amp; Ecommerce" width="100%" /></picture></a>
 
-<p align="center">
-  <a href="https://www.missdantella.com"><img alt="Live" src="https://img.shields.io/badge/live-www.missdantella.com-e49cb2?style=flat-square" /></a>
-  <img alt="Status" src="https://img.shields.io/badge/status-launching%20soon-f0b429?style=flat-square" />
-  <img alt="Heritage" src="https://img.shields.io/badge/textile%20house-35%2B%20years-c98aae?style=flat-square" />
-</p>
+<p align="center"><sub><a href="https://github.com/M1D0-Technologies/dahhan-enterprises">Dahhan Enterprises</a> · <a href="https://github.com/M1D0-Technologies/dahhan-industries">Dahhan Industries</a> · <b>Miss Dantella</b> · <a href="https://github.com/M1D0-Technologies/m1d0-technologies">M1D0 Technologies</a> · <a href="https://github.com/M1D0-Technologies/platform-engineering">Platform Engineering</a> · <a href="https://github.com/M1D0-Technologies">Organization</a></sub></p>
 
 # Miss Dantella
 
-> **A house of lace, lingerie and elastic.**
-> *Texture is the subject.*
+Miss Dantella develops women's lingerie, underwear and nightwear collections for wholesale partners and individual customers. Bringing together product development, apparel production and commerce, the brand serves both B2B wholesale and B2C retail markets.
 
-Miss Dantella is a **Dahhan Enterprises brand** crafting women's lingerie, lace, elastic and accessories for boutiques, retailers and B2B buyers — alongside direct retail. A 35+ year textile house operating from Türkiye, serving regional and international buyers, with a production and supply network connected to Syria, Türkiye and Egypt.
+Building on Dahhan's earlier lingerie wholesale business, Miss Dantella established its own identity in 2000 and expanded into consumer markets. Its collections incorporate fabrics, lace, elastics and accessories supplied by Dahhan Industries, connecting textile expertise with finished apparel.
 
-Every collection begins with the fibre — its weight, its stretch, its hand — and works across lace, embroidery and elastic. The site is a B2B catalog and a brand stage, never a shopping cart.
+Within the wider Dahhan business represented internationally by Dahhan Enterprises, Miss Dantella maintains its own brand identity, product direction and commercial relationships, with a continued focus on developing its collections, wholesale partnerships and customer experience.
 
-## Capabilities
+## At a glance
 
-- **Lingerie & lace** — women's lingerie, lace and trims
-- **Elastic & accessories** — elastics, galloons and finishing components
-- **Textile selection** — across lace, embroidery and elastic
-- **Private‑label production** — enquiries welcome and discussed privately
-
-Wholesale pricing is shared on request, minimum order quantities vary by order type, and lead times are confirmed after enquiry. Compliance and quality documentation is shared with qualified buyers on request.
-
-## Tech stack
-
-<p>
-  <img alt="Next.js" src="https://img.shields.io/badge/Next.js-16-000000?style=flat-square&logo=next.js" />
-  <img alt="React" src="https://img.shields.io/badge/React-19-149eca?style=flat-square&logo=react" />
-  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-6-3178c6?style=flat-square&logo=typescript&logoColor=white" />
-  <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind_CSS-v4-38bdf8?style=flat-square&logo=tailwindcss&logoColor=white" />
-  <img alt="Framer Motion" src="https://img.shields.io/badge/Framer_Motion-12-0055ff?style=flat-square&logo=framer&logoColor=white" />
-  <img alt="Directus" src="https://img.shields.io/badge/Directus-CMS-6644ff?style=flat-square&logo=directus&logoColor=white" />
-  <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ed?style=flat-square&logo=docker&logoColor=white" />
-  <img alt="Cloudflare" src="https://img.shields.io/badge/Cloudflare-Tunnel-f38020?style=flat-square&logo=cloudflare&logoColor=white" />
-</p>
-
-Next.js 16 (App Router, RSC) · React 19 · TypeScript 6 · Tailwind CSS v4 · Framer Motion · Directus CMS · PostgreSQL + better-auth (invite-only B2B portal) · multilingual (EN / TR / AR) · self-hosted behind Caddy + Cloudflare. An editorial design system built around fibre-first craft.
+<picture><source media="(max-width: 640px)" srcset="./assets/glance-mobile.svg" /><img src="./assets/glance.svg" alt="Miss Dantella: industry Retail Apparel and Fashion, founded 2000, missdantella.com. Specialties: Lingerie, Women's Underwear, Nightwear, Sleepwear, Pajamas, Intimate Apparel, Women's Apparel, Lingerie Wholesale, B2B Wholesale, B2C Retail, Wholesale Distribution, Apparel Manufacturing, Product Development, Customer Experience." width="100%" /></picture>
 
 ## Links
 
-- 🌐 **Live:** [www.missdantella.com](https://www.missdantella.com) &nbsp;·&nbsp; 🟡 *Launching soon*
-- 🏛️ **Group on GitHub:** [M1D0-Technologies](https://github.com/M1D0-Technologies)
-- 🧵 **Group parent:** [Dahhan Enterprises](https://github.com/M1D0-Technologies/dahhan-enterprises)
-- ✉️ **Enquiries:** info@missdantella.com
+<p align="center"><a href="https://www.missdantella.com"><picture><source media="(max-width: 640px)" srcset="./assets/tiles/web-mob.svg" /><img src="./assets/tiles/web-desk.svg" alt="Website: missdantella.com" width="50%" /></picture></a><a href="https://www.linkedin.com/company/missdantella/"><picture><source media="(max-width: 640px)" srcset="./assets/tiles/li-mob.svg" /><img src="./assets/tiles/li-desk.svg" alt="LinkedIn: /company/missdantella" width="50%" /></picture></a></p>
 
----
-
-<sub>Miss Dantella — a **Dahhan Enterprises** brand · built and operated by **M1D0 Technologies**. Documentation-only showcase — product source is private. © 2026 Dahhan Enterprises LLC — M1D0 Technologies, Dahhan Industries, Miss Dantella and affiliated brands. All rights reserved.</sub>
+<sub>Documentation and showcase material only; product source code is kept private.<br />© 2026 Dahhan Enterprises LLC. All rights reserved.</sub>
